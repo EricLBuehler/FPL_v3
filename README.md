@@ -2,4 +2,4 @@
 Falcon Programming Lanugage  - v0.3
 
 
-Go to https://github.com/EricLBuehler/Falcon-Programming-Language
+Go to https://github.com/EricLBuehler/Falcon-Programming-Language for newest version
