@@ -1,0 +1,146 @@
+6/15/22 4:10 PM
+Added cannot . access from non class error for protection
+
+6/15/22 3:35 PM
+Fixed bug in var access on direct objects
+
+6/15/22 3:30 PM
+Fixed bug in dot calls on direct objects
+
+6/15/22 5:45 AM
+Fixed dunder method conntections to builtins
+
+6/15/22 5:24 AM
+Dot call on object bugfixes
+
+6/15/22 7:50 PM
+Added setattr and updated positional argument setup to preserve object name
+
+6/15/22 7 PM
+Added calling call and general bug fixes
+
+6/15/22 6:30 PM
+Added getattr
+
+6/15/22 5:40 PM
+Finished class inheritance for now and added super
+
+6/15/22 5:30 PM
+Chenged : to __
+
+6/15/22 4 PM
+Added MRO prototype
+
+6/15/22 3:25 PM
+Added partial-inheritance
+
+6/14/22 8:30 PM
+Added list (mostly) indexing attribute getting
+
+6/14/22 3:50 PM
+Added iadd/isub/imul/idiv, also for class magic methods
+
+6/14/22 3:30 PM
+Added class magic methods for builtins... not iadd yet.
+
+6/14/22 1 PM
+Added iadd operator
+
+6/14/22 12:30 PM
+Added division trailing zeroes stripping.
+
+6/14/22 11 AM
+Added range builtin
+
+6/14/22 10:40 AM
+Added .append for lists
+
+6/14/22 9:45 AM
+Added list builtin
+
+6/14/22 9:30 AM
+Added float builtin
+
+6/14/22 9:25 AM
+Added int builtin
+
+6/14/22 9:10 AM
+Added num builtin
+
+6/14/22 9 AM
+Added arbitrary precision int/float
+
+6/12/22 7:50 PM
+Added len builtin
+
+6/12/22 4:55 PM
+Added for loops, but not for classes, only for strings and lists
+
+6/12/22 4:10 PM
+Added list n-dim indexing. Strings are immutable
+
+6/12/22 3:00 PM
+Added basic lists, still need to add get/set, loops for iterators, splicing
+
+6/12/22 11:48 AM
+Added input
+
+6/12/22 11:20 AM
+Added classes, full except for inheritance
+
+6/10/22 7:30 PM
+Deleting all other code so that there is reversion to only class defenitions.
+
+6/10/22 5:20 PM
+Added function external var access/this
+
+6/10/22 6:00 AM
+Added basic external function calls for classes and fixed some bugs with while loops and return/break/continue
+
+6/7/22 4:45 PM
+Added continue and break, and fixed bug for if/else
+
+6/7/22 1:20 PM
+Added string indexing
+
+6/7/22 11:00 AM
+Added while loops
+
+6/7/22 9:40 AM
+Added return
+
+6/6/22 8:50 PM
+Added framework for builtins, added print
+
+6/6/22 5:22 PM
+Added and, or, not
+
+6/6/22 5:00 PM
+Added if, elif, else
+
+6/6/22 2:50 PM
+Added full functions (auto placement, local variables, return) and support for recursion
+
+6/6/22 10:38 AM
+Added functions (need to add auto param placement, etc, but basic is working)
+
+6/5/22 1:29 PM
+Multi-line execution added
+
+6/5/22 12:49 PM
+Added variable access
+
+6/5/22 12 PM
+Added comparison operators
+
+6/5/22 7:48 AM
+Added string type
+
+6/5/22 6:04 AM
+Added power
+
+6/5/22 5:34 AM
+Added unary operators and newline token and string token
+
+6/4/22 4:00 PM
+First working version (numerical expressions and variables)
